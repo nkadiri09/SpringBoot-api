@@ -1,5 +1,4 @@
 # SpringBoot-api
-SpringBoot Practice
 
 ## Spring Boot does not compete with Spring or Spring MVC. It makes it easy to use them.
 
@@ -21,4 +20,4 @@ SpringBoot Practice
   Jetty and many others.
 
   It offers Command Line Interface (CLI) tool for developing and testing Spring Boot.
-  It offers a number of plugins for developing and testing Spring Boot Applications easily using Maven/Gradle- the build tools.
+  It offers a number of plugins for developing and testing Spring Boot Applications easily using Maven/Gradle- the build         tools.
