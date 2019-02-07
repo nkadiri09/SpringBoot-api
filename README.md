@@ -22,7 +22,7 @@
   It offers Command Line Interface (CLI) tool for developing and testing Spring Boot.
   It offers a number of plugins for developing and testing Spring Boot Applications easily using Maven/Gradle- the build         tools.
 
-Steps to create Springboot Application.
+### Steps to create Springboot Application.
 
 1. First, let’s use Spring Initializr to generate the base for our project.
 
